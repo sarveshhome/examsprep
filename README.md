@@ -6,6 +6,8 @@
 
 `ng serve --o`      for run the program
 
+'http://localhost:4200/newexam'   click this url
+
 
 # Examsprep
 
